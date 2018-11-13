@@ -1,0 +1,11 @@
+[submodule "external/unbound"]
+	path = external/unbound
+	url = https://github.com/xeonbit-project/unbound
+	branch = xeonbit
+[submodule "external/miniupnp"]
+	path = external/miniupnp
+	url = https://github.com/xeonbit-project/miniupnp
+	branch = xeonbit
+[submodule "external/rapidjson"]
+	path = external/rapidjson
+	url = https://github.com/Tencent/rapidjson
