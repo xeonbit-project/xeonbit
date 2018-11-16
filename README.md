@@ -20,15 +20,6 @@ Facebook: [https://fb.com/xeonbit](https://fb.com/xeonbit)
 Twitter: [https://twitter.com](https://twitter.com/xeonbit)
 Telegram: [https://t.me/xeonbitgroup](https://t.me/xeonbitgroup)
 
-
-## Coverage
-
-| Type      | Status |
-|-----------|--------|
-| Coverity  | [![Coverity Status](https://scan.coverity.com/projects/9657/badge.svg)](https://scan.coverity.com/projects/9657/)
-| Coveralls | [![Coveralls Status](https://coveralls.io/repos/github/xeonbit-project/xeonbit/badge.svg?branch=master)](https://coveralls.io/github/xeonbit-project/xeonbit?branch=master)
-| License   | [![License](https://img.shields.io/badge/license-BSD3-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-
 ## Introduction
 
 Xeonbit is private digital currency for secure payments. You are your bank, you control your funds, and nobody can trace your transfers unless you allow them to do so.
