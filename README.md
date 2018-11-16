@@ -16,10 +16,10 @@ Portions Copyright (c) 2017-2018 The Cryptonote developers.
 
 Please join our social Networks
 
-Facebook: [https://fb.com/xeonbit](https://fb.com/xeonbit)
-Twitter: [https://twitter.com](https://twitter.com/xeonbit)
-Telegram: [https://t.me/xeonbitgroup](https://t.me/xeonbitgroup)
-Discord: [https://discord.gg/HYcJPFG](https://discord.gg/HYcJPFG)
+- Facebook: [https://fb.com/xeonbit](https://fb.com/xeonbit)
+- Twitter: [https://twitter.com](https://twitter.com/xeonbit)
+- Telegram: [https://t.me/xeonbitgroup](https://t.me/xeonbitgroup)
+- Discord: [https://discord.gg/HYcJPFG](https://discord.gg/HYcJPFG)
 
 ## Introduction
 
