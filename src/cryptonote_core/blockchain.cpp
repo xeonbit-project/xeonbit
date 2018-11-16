@@ -91,7 +91,7 @@ static const struct {
   time_t time;
 } mainnet_hard_forks[] = {
   // version 1 from the start of the blockchain
-  { 1, 1, 0, 1501297554 },
+  { 8, 1, 0, 1501297554 },
 
   // version 2 starts from block 1546000, which is on or around the 5th of November, 2018. Fork time finalised on 2018-10-13.
   //{ 2, 538109, 0, 1541419155 },
