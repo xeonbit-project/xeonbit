@@ -8,10 +8,6 @@ Portions Copyright (c) 2017-2018 The Cryptonote developers.
 - GitHub: [https://github.com/xeonbit-project/xeonbit](https://github.com/xeonbit-project/xeonbit)
 - Telegram: [https://t.me/xeonbitgroup](https://t.me/xeonbitgroup)
 
-## Vulnerability response
-
-- Our [Vulnerability Response Process](https://github.com/xeonbit-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) encourages responsible disclosure
-
 ## Announcements
 
 Please join our social Networks
