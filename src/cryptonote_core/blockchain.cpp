@@ -90,13 +90,14 @@ static const struct {
   uint8_t threshold;
   time_t time;
 } mainnet_hard_forks[] = {
-  // version 1 from the start of the blockchain
-  { 1, 1, 0, 1553990400 },
-
-  // version 9 starts from block 1546000, which is on or around the 5th of November, 2018. Fork time finalised on 2019-03-31.
-  //{ 9, 1686275, 0, 1553990400 },
+   // version 1 from the start of the blockchain
+  { 1, 1, 0, 1546473600 },
+  
+  // versions 2, 3, 4, 5,6 and 7 are skipped, in favor of reducing the cost of adopting the POW change and other consensus updates from Xeonbit
+  // version 8 starts from block 652160, which is on or around the 4th of Jan, 2018. Fork time finalised on 2019-01-09.
+  { 8, 652165, 0, 1546992000},
 };
-static const uint64_t mainnet_hard_fork_version_1_till = 1009826;
+static const uint64_t mainnet_hard_fork_version_1_till = 652165;
 
 static const struct {
   uint8_t version;
