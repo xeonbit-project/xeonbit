@@ -95,9 +95,9 @@ static const struct {
   
   // versions 2, 3, 4, 5,6 and 7 are skipped, in favor of reducing the cost of adopting the POW change and other consensus updates from Xeonbit
   // version 8 starts from block 652164, which is on or around the 4th of Jan, 2018. Fork time finalised on 2019-01-09.
-  { 2, 652165, 0, 1546992000},
+  { 2, 651441, 0, 1546992000},
 };
-static const uint64_t mainnet_hard_fork_version_1_till = 652164;
+static const uint64_t mainnet_hard_fork_version_1_till = 651440;
 
 static const struct {
   uint8_t version;
@@ -4360,7 +4360,7 @@ void Blockchain::cancel()
 }
 
 #if defined(PER_BLOCK_CHECKPOINT)
-static const char expected_block_hashes_hash[] = "747d852c1f103c1f454f7f74133dbd224cd8b6c4c57c9590f841b4dd8b2d1f46";
+static const char expected_block_hashes_hash[] = "d20d9613d61de6d8a758f96d868d9f5fc585dba460dc23444070f06f980f7af9";
 void Blockchain::load_compiled_in_block_hashes()
 {
   const bool testnet = m_nettype == TESTNET;
